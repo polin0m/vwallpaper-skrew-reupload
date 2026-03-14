@@ -1,6 +1,6 @@
 # vwallpaper-skrew-reupload
 Reuploading a vWallpaper tweak (beta 0.09 idk where to get release)
-How to use:
+# How to use:
 - upload to idevice
 - install with ifile or dpkg -i /path/to/file in terminal
 - respring
