@@ -9,4 +9,4 @@ Reuploading a vWallpaper tweak (beta 0.09 idk where to get release)
 Problems with this version:
 - works only when date is in 2012-2014 range
 - very buggy
-Who has normal release version please dm me in tg at vacsup or fork this
+# Who has normal release version please dm me in tg at vacsup or fork this
